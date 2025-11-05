@@ -15,4 +15,5 @@ def main():
     for item in sorted_list:
         print(item["char"] + ": " + str(item["num"]))
     print("============= END ===============")
+
 main()
